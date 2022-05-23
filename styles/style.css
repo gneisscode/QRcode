@@ -3,13 +3,14 @@
 }
     
 body {
-    display: flex;
+    /* display: flex;
     margin: 0;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
 }
+/* Okay now check how it looks? */
 
 .card {
     display: flex;

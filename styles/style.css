@@ -1,13 +1,10 @@
-.qr{display: flex;
-    padding: 50 px;
-    margin: auto;
-    border-radius: 5px;
-
-}
 
 main{
     display: flex;
     justify-content: center;
     flex-direction: column;
     border-radius: 5px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 40px;
 }

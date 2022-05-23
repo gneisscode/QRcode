@@ -6,15 +6,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin:0;
+    margin: auto;
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
-    width: 375px;
+    width: 1440px;
 }
-/* Okay now check how it looks? */
-/* I have also changed the width of the qr class
-You can adjust the width there
-*/
+
 .card {
     display: flex;
     justify-content: center;

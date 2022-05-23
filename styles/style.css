@@ -1,6 +1,6 @@
 .qr{ 
     border-radius: 25px;
-    width: 10em;
+    margin: 15px;
 }
     
 body {
@@ -13,7 +13,9 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 /* Okay now check how it looks? */
-
+/* I have also changed the width of the qr class
+You can adjust the width there
+*/
 .card {
     display: flex;
     justify-content: center;

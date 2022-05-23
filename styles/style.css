@@ -1,4 +1,6 @@
-
+.qr{
+    border-radius: 25px;
+}
 main{
     display: flex;
     justify-content: center;

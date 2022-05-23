@@ -8,7 +8,6 @@ body {
     align-items: center;
     justify-content: center;
     margin: auto;
-    width: 1440px;
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
 }
@@ -24,7 +23,7 @@ You can adjust the width there
     padding: 20px;
     background-color:white;
     border-radius: 25px;
-    /* width: 1440px; */
+    width: 1440px;
     box-shadow: 0px 10px 50px 0px;
 }
 

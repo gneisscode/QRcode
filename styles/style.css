@@ -7,7 +7,6 @@ body {
     margin: 0;
     align-items: center;
     justify-content: center;
-    font-size: 15px;
     font-family: 'Outfit', sans-serif;
 }
 
@@ -26,10 +25,12 @@ body {
 .heading{
     text-align: center;
     font-weight: 1000;
+    font-size: 15px;
 }
 
 .paragraph{
     text-align: center;
     color: hsl(0, 0%, 23%);
     font-weight: 700;
+    font-size: 15px;
 }

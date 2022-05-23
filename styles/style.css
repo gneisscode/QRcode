@@ -3,7 +3,7 @@
     justify-content: space-around;
     border-radius: 25px;
 }
-main{
+body{
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -11,9 +11,9 @@ main{
     padding: 100px;
 }
 
-h1{
-    text-align: center;
-}
-h2{
-    text-align: center;
+.card {
+    background-color: var(--White);
+    border-radius: 25px;
+    width: 92%;
+    box-shadow: var(--grayish-blue) 0px 10px 50px 0px;
 }

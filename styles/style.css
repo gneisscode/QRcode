@@ -1,6 +1,5 @@
 .qr{ 
     border-radius: 25px;
-    
 }
     
 body {
@@ -30,5 +29,5 @@ body {
 
 .paragraph{
     text-align: center;
-    color: hsl(220, 15%, 55%)
+    color: hsl(0, 0%, 23%);
 }

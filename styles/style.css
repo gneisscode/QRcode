@@ -10,6 +10,7 @@ body {
     margin: auto;
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
+    width: 1440px;
 }
 /* Okay now check how it looks? */
 /* I have also changed the width of the qr class
@@ -22,7 +23,6 @@ You can adjust the width there
     border-radius: 5px;
     background-color:white;
     border-radius: 25px;
-    width: 1440px;
     box-shadow: 0px 10px 50px 0px;
 }
 

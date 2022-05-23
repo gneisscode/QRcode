@@ -1,15 +1,15 @@
 .qr{ 
     border-radius: 25px;
 }
-body{
+    
+
+
+.card {
     display: flex;
     justify-content: center;
     flex-direction: column;
     border-radius: 5px;
     padding: 100px;
-}
-
-.card {
     background-color:white;
     border-radius: 25px;
     /*width: 92%;*/

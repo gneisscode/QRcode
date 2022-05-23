@@ -1,4 +1,6 @@
 .qr{
+    display: flex;
+    justify-content: space-around;
     border-radius: 25px;
 }
 main{
